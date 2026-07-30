@@ -17,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/SamuelMelo08/CRUD-de-Tarefas/issues"
   },
-  "homepage": "https://github.com/SamuelMelo08/CRUD-de-Tarefas#readme"
+  "homepage": "https://github.com/SamuelMelo08/CRUD-de-Tarefas#readme",
+  "dependencies": {
+    "csv-parse": "^7.0.1"
+  }
 }
